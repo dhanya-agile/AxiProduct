@@ -1,0 +1,19 @@
+{
+  "ManagerType": "Product",
+  "Products": [
+    {
+      "ProductName": "ERP Demo",
+      "ProductDescription": "ERP Demo",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-07T13:23:04Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "Demo"
+      ],
+      "Category": "Enterprise"
+    }
+  ]
+}
