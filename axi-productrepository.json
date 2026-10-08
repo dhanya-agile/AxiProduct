@@ -42,6 +42,19 @@
         "package19"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ProductDemo",
+      "ProductDescription": "Testing product export",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-10-08T05:43:52Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ProductDemo"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
