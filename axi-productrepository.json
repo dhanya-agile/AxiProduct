@@ -144,6 +144,20 @@
         "Payable"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Account Receivable",
+      "ProductDescription": "Account Receivable - Axi Product",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-10-08T11:42:53Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Account",
+        "Receivable"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
