@@ -158,6 +158,20 @@
         "Receivable"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Inventory Control",
+      "ProductDescription": "Inventory Control Product",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-10-08T12:50:34Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Inventory",
+        "Control"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
