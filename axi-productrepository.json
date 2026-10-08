@@ -130,6 +130,20 @@
         "Cash"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Account Payable",
+      "ProductDescription": "Account Payable Axi Product",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-10-08T11:00:34Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Account",
+        "Payable"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
