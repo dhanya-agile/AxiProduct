@@ -70,6 +70,21 @@
         "Pay"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Procure to Pay",
+      "ProductDescription": "Product testing",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-08T07:28:49Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Procure",
+        "to",
+        "Pay"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
