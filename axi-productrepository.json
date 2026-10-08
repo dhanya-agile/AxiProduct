@@ -55,6 +55,21 @@
         "ProductDemo"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Procure to Pay",
+      "ProductDescription": "Product testing",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-10-08T05:54:51Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Procure",
+        "to",
+        "Pay"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
