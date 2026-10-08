@@ -115,6 +115,21 @@
         "Cash"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Order to Cash",
+      "ProductDescription": "Axi Order to Cash Product",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-08T09:46:09Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Order",
+        "to",
+        "Cash"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
