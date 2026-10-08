@@ -85,6 +85,21 @@
         "Pay"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Procure to Pay",
+      "ProductDescription": "Axi Procure to Pay",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-10-08T08:13:17Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Procure",
+        "to",
+        "Pay"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
