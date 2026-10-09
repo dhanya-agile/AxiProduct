@@ -172,6 +172,21 @@
         "Control"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Order to Cash",
+      "ProductDescription": "",
+      "ProductVersion": "1.0.0",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-10-09T07:38:35Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Order",
+        "to",
+        "Cash"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
