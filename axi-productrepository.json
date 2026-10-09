@@ -187,6 +187,20 @@
         "Cash"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Account Payable",
+      "ProductDescription": "Testing Multiple Import and Export Account Payable",
+      "ProductVersion": "1",
+      "ProductAuthor": "dhanya",
+      "ProductCreatedOn": "2026-10-09T08:21:44Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Account",
+        "Payable"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
