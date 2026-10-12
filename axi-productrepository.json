@@ -243,6 +243,20 @@
         "Control"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Account Payable",
+      "ProductDescription": "Testing Multiple Import and Export Account Payable",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-10-12T10:09:52Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Account",
+        "Payable"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
