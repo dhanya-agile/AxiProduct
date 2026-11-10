@@ -99,6 +99,21 @@
         "ERP"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ERP DEMO 01",
+      "ProductDescription": "ERP DEMO 01",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-11-10T07:55:50Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "DEMO",
+        "01"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
