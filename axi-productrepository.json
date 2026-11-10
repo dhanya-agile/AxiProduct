@@ -71,6 +71,21 @@
         "59"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "AxiTest CRM 60",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-10T05:05:05Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "AxiTest",
+        "CRM",
+        "60"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
