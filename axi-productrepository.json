@@ -128,6 +128,20 @@
         "11"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ERP_12",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-10T10:00:47Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "12"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
