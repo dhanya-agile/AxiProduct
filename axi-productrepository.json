@@ -184,6 +184,20 @@
         "14"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ERP_15",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-10T11:01:48Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "15"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
