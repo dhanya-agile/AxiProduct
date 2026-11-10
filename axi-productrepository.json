@@ -156,6 +156,20 @@
         "13"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "Test Product",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-11-10T10:08:47Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Test",
+        "Product"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
