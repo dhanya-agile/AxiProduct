@@ -86,6 +86,19 @@
         "60"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ERP",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-11-10T07:53:16Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
