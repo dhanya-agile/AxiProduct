@@ -380,6 +380,20 @@
         "23"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ERP_24",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-11T13:08:37Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "24"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
