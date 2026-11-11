@@ -338,6 +338,20 @@
         "20"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ERP_21",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-11T11:19:46Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "21"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
