@@ -296,6 +296,20 @@
         "18"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ERP_18",
+      "ProductDescription": "",
+      "ProductVersion": "5",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-11T10:42:36Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "18"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
