@@ -590,6 +590,20 @@
         "32"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ERP_32",
+      "ProductDescription": "",
+      "ProductVersion": "3",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-12T06:33:10Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "32"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
