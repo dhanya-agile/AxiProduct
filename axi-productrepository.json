@@ -506,6 +506,20 @@
         "30"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ERP_30",
+      "ProductDescription": "",
+      "ProductVersion": "4",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-12T04:46:11Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "30"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
