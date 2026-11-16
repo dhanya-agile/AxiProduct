@@ -659,6 +659,19 @@
         "SkipPageTest"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "SkipPageTest1",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-16T08:38:47Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "SkipPageTest1"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
