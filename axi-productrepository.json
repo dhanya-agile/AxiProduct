@@ -672,6 +672,21 @@
         "SkipPageTest1"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ERP_Demo_1",
+      "ProductDescription": "",
+      "ProductVersion": "1",
+      "ProductAuthor": "admin",
+      "ProductCreatedOn": "2026-11-17T07:26:48Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP",
+        "Demo",
+        "1"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
